@@ -37,7 +37,7 @@ This repository contains implementations of fundamental **data structures** and 
 ## 🎯 Goals
 - Build a strong foundation in DSA
 - Practice clean, modular, and well-documented code
-- Prepare for coding interviews and competitive programming
+- For BIT students
 
 ---
 
